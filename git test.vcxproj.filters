@@ -15,10 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="1-arraylinktree.c">
+    <ClCompile Include="6-huffman.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="소스.c">
+    <ClCompile Include="6-sortbyheap.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
