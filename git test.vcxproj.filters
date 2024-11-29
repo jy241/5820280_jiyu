@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="1-arraylinktree.c">
+    <ClCompile Include="13-mergesort.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="소스.c">
